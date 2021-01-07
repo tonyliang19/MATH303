@@ -1,1 +1,1 @@
-# Jupyter Notebooks for MATH303
+# Jupyter Notebooks for MATH 303
