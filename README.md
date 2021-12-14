@@ -1,1 +1,1 @@
-# Jupyter Notebooks for MATH 303
+# Jupyter Notebooks for UBC MATH 303 (2020 W2)
